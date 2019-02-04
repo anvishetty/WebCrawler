@@ -1,0 +1,752 @@
+[
+{
+Name: "Homemade Ranch Dressing"
+Photo: "https://lh3.googleusercontent.com/tpnMvZapC2axqoZXDJcaY5p7llNTZDsZoxMCGFfCPuOWHGSKDVdL_etTNBg_89BeeKre17tqDsm6vhFRtJUGgD0"
+URL: "https://www.yummly.com/recipe/Homemade-Ranch-Dressing-2650397"
+Ingredients: ["1/2 cup buttermilk","1/4 cup mayonnaise","1 teaspoon lemon juice","1/8 teaspoon paprika","1 tablespoon fresh parsley chopped","1 teaspoon chive fresh, chopped","1/4 teaspoon dill or a teaspoon chopped fresh","salt","pepper"]
+Cook Time: "PT5M"
+Serve: "10 servings"
+Tags: "Quick and Easy, Low Sugar, Salads, Quick, Easy, High Iron, Low Carb, Low Calorie"
+Recipe Type: ["Salads"]
+[
+{
+Name: "Cheese & Sausage Wontons"
+Photo: "https://lh3.googleusercontent.com/cORS-fY79K4KSu_wq-FtQhkPXACjwbXeSVMtF2KK0jZNqDBRwwEXKpBhxbylRRQveHLHLjJsB8_hLZLAarww"
+URL: "https://www.yummly.com/recipe/Cheese-_-Sausage-Wontons-2639332"
+Ingredients: ["12 ounces wonton wrappers","1 cup Sargento Shredded Mild Cheddar Cheese Traditional Cut, divided","1 cup shredded pepper jack cheese Sargento®","1 pound bulk sausage cooked and drained","2/3 cup ranch salad dressing"]
+Rating: {"@type":"AggregateRating","ratingValue":5,"reviewCount":1}
+Cook Time: "PT50M"
+Serve: "4 servings"
+Tags: "Appetizers, Easy"
+Recipe Type: ["Appetizers"]
+[
+{
+Name: "Grilled Artichokes With Parsley Sauce"
+Photo: "https://lh3.googleusercontent.com/cuXMA1dp_W2uowpXvK-3iBarj_JQD6l_OmeKmt2pRmeFv7Rgrt5Yng_fh_qDThVHJ0b03Mjs5G3BE9Ai0FNF"
+URL: "https://www.yummly.com/recipe/Grilled-Artichokes-With-Parsley-Sauce-2651460"
+Ingredients: ["4 artichokes medium","1 cup parsley leaves packed","1/4 cup lemon juice","1 tablespoon red wine vinegar","1 clove garlic","1 teaspoon fine sea salt","1/4 teaspoon black pepper"]
+Cook Time: "PT30M"
+Serve: "4 servings"
+[
+{
+Name: "Slow Cooker Crack Chicken"
+Photo: "https://lh3.googleusercontent.com/ZmsASm2juGUIlIefA60n2NnXzwRsDeWRJgqqmPQKhUk-K8IA0SGahqnu2IovUEF_lOegwk9N9UjRck8aQxxh2ho"
+URL: "https://www.yummly.com/recipe/Slow-Cooker-Crack-Chicken-2639145"
+Ingredients: ["4 chicken breasts frozen, about 2 pounds","2 seasoning Ranch Dressing, Packets","16 ounces cream cheese","8 slices bacon crumbled"]
+Rating: {"@type":"AggregateRating","ratingValue":4,"reviewCount":17}
+Cook Time: "PT8H15M"
+Serve: "8 servings"
+Tags: "Slow Cooking, Main Dishes, Easy, Microwaving"
+Recipe Type: ["Main Dishes"]
+[
+{
+Name: "Grilled Pork Chops with Basil-Garlic Rub"
+Photo: "https://lh3.googleusercontent.com/KQlVT3lrsGGQTcx9CXi_tHFLl0na9OSo_oGqRzF-iObzfR5IZvgHU051g0iwDPrWG23ZQKCSEggibdswiEOM"
+URL: "https://www.yummly.com/recipe/Grilled-Pork-Chops-with-Basil-Garlic-Rub-2261216"
+Ingredients: ["4 bone-in ribeye (rib) pork chops 3/4-Inch Thick","2 cloves garlic Peeled","1 cup fresh basil Packed","2 tablespoons lemon juice Fresh","2 tablespoons extra virgin olive oil","1 teaspoon coarse salt","1/2 teaspoon black pepper Freshly Ground"]
+Rating: {"@type":"AggregateRating","ratingValue":4.384615384615385,"reviewCount":26}
+Cook Time: "PT40M"
+Serve: "4 servings"
+Tags: "Main Dishes, Grilling"
+Recipe Type: ["Main Dishes"]
+[
+{
+Name: "Baked Zucchini Chips"
+Photo: "https://lh3.googleusercontent.com/Fnri8LJfsVzvImaT2ApqQ9lR5fnWm_GYnA81OEO30t6BQrpwnMftIN1cWOfnODOwHNobg6xUXCRlIZWbpCqojA"
+URL: "https://www.yummly.com/recipe/Baked-Zucchini-Chips-2614138"
+Ingredients: ["2 zucchini cut into 1/4 inch slices","1/2 cup bread crumbs seasoned dry","2 tablespoons grated parmesan cheese","2 egg whites","1/8 teaspoon black pepper"]
+Rating: {"@type":"AggregateRating","ratingValue":4.75,"reviewCount":4}
+Cook Time: "PT20M"
+Serve: "4 servings"
+[
+{
+Name: "Baked Pizza Taquitos"
+Photo: "https://lh3.googleusercontent.com/JWiZSL4xr5eB7EGRWTlOk0GRvkDFee5qSbOGZWGBanZf3AKpcg5ILeqqRJ0uTJljbHP0cTa_nrpRNwbOXtuMoPU"
+URL: "https://www.yummly.com/recipe/Baked-Pizza-Taquitos-2632755"
+Ingredients: ["8 whole wheat tortillas or soft multi-grain","1/2 cup pizza sauce plus more for dipping","2 cups shredded mozzarella cheese","48 slices pepperoni"]
+Rating: {"@type":"AggregateRating","ratingValue":4.857142857142857,"reviewCount":7}
+Cook Time: "PT25M"
+Serve: "8 servings"
+Tags: "Browning, Baking"
+[
+{
+Name: "Easy Salisbury Steak Bake"
+Photo: "https://lh3.googleusercontent.com/UDHPoPcg3r0HOVtttNQbe3Kq9qkbwp5uyeQGl2NCjXutJqFOoTWlqeCbusE-3qKCnNqTqwL2gMQY41hp-iBvBQ"
+URL: "https://www.yummly.com/recipe/Easy-Salisbury-Steak-Bake-2631609"
+Ingredients: ["2 pounds ground beef","1 can cream of mushroom","1 can water","1 package brown gravy mix","1 package lipton onion soup mix","8 ounces baby bella mushrooms sliced"]
+Rating: {"@type":"AggregateRating","ratingValue":4.666666666666667,"reviewCount":27}
+Cook Time: "PT1H"
+Serve: "4 servings"
+Tags: "Main Dishes, Easy"
+Recipe Type: ["Main Dishes"]
+[
+{
+Name: "Maximum Weight Loss Juice"
+Photo: "https://lh3.googleusercontent.com/StrmA3saWArOfBccBvEnBEuAYFO9cvn3z4jfuxNdlmtgJKi9XsRtgRVOUwgQbmsDwmGwfLx2A1rS_g0N0aneTg"
+URL: "https://www.yummly.com/recipe/Maximum-Weight-Loss-Juice-2626014"
+Ingredients: ["cucumbers 1 or 2","3 stalks celery","2 leaves kale","1 lemon","1/2 apple","2 inches ginger will speed up your metabolism"]
+Rating: {"@type":"AggregateRating","ratingValue":3,"reviewCount":3}
+Cook Time: "PT15M"
+Serve: "4 servings"
+Tags: "Beverages, Juice, Easy"
+Recipe Type: ["Beverages"]
+[
+{
+Name: "Perfect Homemade Alfredo Sauce"
+Photo: "https://lh3.googleusercontent.com/HUb4taJ_q-qYtsr-HtwQ-_x5Cw6keYOdqDUaXqVgmN4oWB4NU209F5WK3ao8aepuce73AcveJ6_EwmcKzvPS"
+URL: "https://www.yummly.com/recipe/Perfect-Homemade-Alfredo-Sauce-2643296"
+Ingredients: ["1/2 cup butter","2 garlic cloves minced","2 cups heavy cream","1/4 teaspoon white pepper","1/4 teaspoon salt","1 1/2 cups grated parmesan cheese"]
+Rating: {"@type":"AggregateRating","ratingValue":4.7384615384615385,"reviewCount":65}
+Cook Time: "PT25M"
+Serve: "4 servings"
+Tags: "Easy, Alfredo, Condiments and Sauces, Sugar Free, Boiling, High Vitamin D, High Calcium, Low Sugar, High Protein, Low Carb"
+Recipe Type: ["Condiments and Sauces"]
+[
+{
+Name: "Falafal"
+Photo: "https://lh3.googleusercontent.com/xKHCwVrgzUK2Bgu38mSyXEPAmanDTYEqqnfYbWBKZ3MhMmBKgP_Vo69WXH39cS9oiIDSLAPdqvci8NWTGdyy5w"
+URL: "https://www.yummly.com/recipe/Falafal-2236573"
+Ingredients: ["2 cups chick peas soaked","1/4 cup chopped onion","1 clove minced garlic","1 teaspoon dried parsley if you can afford fresh, add 1 cup chopped it has a wonderful taste","1/2 lemon can be omitted","1 teaspoon cumin can be omitted"]
+Rating: {"@type":"AggregateRating","ratingValue":1,"reviewCount":1}
+Cook Time: "PT35M"
+Serve: "4 servings"
+Tags: "Baking"
+[
+{
+Name: "2 Ingredient Weight Watchers Pancakes – Zero Points Freestyle"
+Photo: "https://lh3.googleusercontent.com/Jc64-p37GGtrY0amveoOaP9uCEOoLzuMXytgEvTHdbpvMGjf0F_T7V9NZW9ss8LdHo9L9m9qzb6pGYiOKYy2FQ"
+URL: "https://www.yummly.com/recipe/2-Ingredient-Weight-Watchers-Pancakes-Zero-Points-Freestyle-2645921"
+Ingredients: ["1 banana ripe","2 eggs","vanilla","cinnamon"]
+Rating: {"@type":"AggregateRating","ratingValue":5,"reviewCount":2}
+Cook Time: "PT15M"
+Serve: "6 servings"
+Tags: "Quick and Easy, Low Sodium, Breakfast and Brunch, Quick, Easy, Low Sugar, Low Saturated Fat, Low Carb, Low Calorie, Low Fat"
+Recipe Type: ["Breakfast and Brunch"]
+[
+{
+Name: "Meatball Parmesan Casserole"
+Photo: "https://lh3.googleusercontent.com/8H_kR4fF6IE517FKDHGOyVHEgNmmCdhX_Yz2YfxIDJgCQoU_NJ-hw_FJ1jEolQPPAfoKuKMw4jYjJK512gTyfQ"
+URL: "https://www.yummly.com/recipe/Meatball-Parmesan-Casserole-2626493"
+Ingredients: ["1 bag frozen meatballs cooked according to package directions","pasta sauce","2 cups shredded mozzarella cheese","1 cup shredded parmesan cheese","Italian seasoning to taste"]
+Rating: {"@type":"AggregateRating","ratingValue":4.545454545454546,"reviewCount":22}
+Cook Time: "PT15M"
+Serve: "7 servings"
+Tags: "Casserole, Easy, Quick and Easy, Quick"
+[
+{
+Name: "Simple Skillet Green Beans"
+Photo: "https://lh3.googleusercontent.com/b3D-gQemnyclzNiDttlhLTbyWe7UoUBKAcD2cSpxAQ4HPtYHEZESXhp0kg6HXVykUGALYHcn_8cEB22B_qbR"
+URL: "https://www.yummly.com/recipe/Simple-Skillet-Green-Beans-2352743"
+Ingredients: ["2 tablespoons extra virgin olive oil","1/2 teaspoon red pepper flake or to taste","1 1/2 pounds green beans trimmed","2 cloves garlic minced","1/2 teaspoon coarse kosher salt","2 tablespoons water"]
+Rating: {"@type":"AggregateRating","ratingValue":4.410714285714286,"reviewCount":56}
+Cook Time: "PT15M"
+Serve: "5 servings"
+Tags: "Quick and Easy, High Vitamin C, Side Dishes, Quick, Easy, Low Sodium, Low Sugar, Low Saturated Fat, High Iron, Low Carb, Low Calorie, High Fiber"
+Recipe Type: ["Side Dishes"]
+[
+{
+Name: "Baked Buffalo Chicken Tenders"
+Photo: "https://lh3.googleusercontent.com/D1yB3qTV5WVXny80ev3O-c8aUFRPYcchdCUkF1Dshe2yuE7bRfR7BauR9xp_ls34JBQNgnsZTOQYgHvmAt2mPtQ"
+URL: "https://www.yummly.com/recipe/Baked-Buffalo-Chicken-Tenders-2649610"
+Ingredients: ["2/3 cup all purpose flour or panko breadcrumbs, if you prefer a crunchy coating","1/2 teaspoon cayenne pepper","1/2 teaspoon paprika","1/2 teaspoon garlic powder","1/2 teaspoon salt","3 boneless skinless chicken breasts divided into 10 tenders","1/2 cup butter melted","1/2 cup hot sauce"]
+Rating: {"@type":"AggregateRating","ratingValue":4.666666666666667,"reviewCount":3}
+Cook Time: "PT35M"
+Serve: "10 servings"
+Tags: "Baking, Chicken Tenders, Browning"
+[
+{
+Name: "Sparkling Tropical Mimosa Punch"
+Photo: "https://lh3.googleusercontent.com/l49fXjPb6UHJEeFQtnY-gsW-HRphpKFxR27qbswON_YWzMF8BfukuItRCeIJH4PCYYbW9FzXlepjMctwmBJA"
+URL: "https://www.yummly.com/recipe/Sparkling-Tropical-Mimosa-Punch-2625049"
+Ingredients: ["2 cups pineapple juice","2 cups orange juice","2 cups cranberry juice","2 cups guava nectar","1 cup apple juice","750 milliliters sparkling wine"]
+Rating: {"@type":"AggregateRating","ratingValue":1,"reviewCount":1}
+Cook Time: "PT10M"
+Serve: "12 servings"
+Tags: "Easy, Beverages, Punch, Cocktails"
+Recipe Type: ["Beverages","Cocktails"]
+[
+{
+Name: "Slow-Roasted Beef Tenderloin"
+Photo: "https://lh3.googleusercontent.com/7cz_eMiazA3LLAQ567Z8V7Tyqyn4sOZ8A-MvTLjw1pt1tvSrDxYd5LKpmGBB8jkf_PToutCBV8iLbeXEMWTU9A"
+URL: "https://www.yummly.com/recipe/Slow-Roasted-Beef-Tenderloin-2618548"
+Ingredients: ["6 pounds beef tenderloin trimmed of fat, tied","olive oil","sea salt","cracked pepper Fresh"]
+Rating: {"@type":"AggregateRating","ratingValue":5,"reviewCount":1}
+Cook Time: "PT1H10M"
+Serve: "4 servings"
+Tags: "Main Dishes, Roasting, Easy"
+Recipe Type: ["Main Dishes"]
+[
+{
+Name: "Easy Healthy Maple Glazed Salmon in Foil"
+Photo: "https://lh3.googleusercontent.com/Of0nipZXlHplyCI1Fw--rGNe7Rcj5HXAyI-cWjmqJBtYg0BRF6E43Y7RxA690eUdQykHZP8twgfjn64HN7Fa2A"
+URL: "https://www.yummly.com/recipe/Easy-Healthy-Maple-Glazed-Salmon-in-Foil-2637614"
+Ingredients: ["3 pounds salmon","3 tablespoons dijon mustard","2 tablespoons chili powder","2 tablespoons smoked paprika","1 1/2 tablespoons brown sugar","1 1/2 teaspoons salt","1/2 cup pure maple syrup"]
+Rating: {"@type":"AggregateRating","ratingValue":3,"reviewCount":7}
+Cook Time: "PT35M"
+Serve: "8 servings"
+Tags: "High Vitamin D, Main Dishes, Low Saturated Fat, High Protein, Low Carb, Low Calorie, Low Fat"
+Recipe Type: ["Main Dishes"]
+[
+{
+Name: "Easy Biscuits"
+Photo: "https://lh3.googleusercontent.com/OodWEVUhVUn08epNG90IRcHPwWlsnwrN7eouBwHgtQ1C69YM7MTX44dKmJyWDzWMwoxP37OLP-OlGgltr1oE"
+URL: "https://www.yummly.com/recipe/Easy-Biscuits-2630591"
+Ingredients: ["2 cups flour","1 tablespoon baking powder","1 teaspoon salt","4 tablespoons butter","3/4 cup milk"]
+Cook Time: "PT40M"
+Serve: "4 servings"
+Tags: "Breads, Baking"
+Recipe Type: ["Breads"]
+[
+{
+Name: "Morning Egg Bites"
+Photo: "https://lh3.googleusercontent.com/L9gsprW9ZFx5JXgqmWeIb-DfvYG_TnVL29234DmhJurZyKoJ0INKKID_9Xu6MQn6SfC9oxXGgEDJbASvfO5z"
+URL: "https://www.yummly.com/recipe/Morning-Egg-Bites-2636113"
+Ingredients: ["3 eggs","1/2 tomato finely chopped","1/4 bell pepper finely chopped","1 handful spinach finely chopped","1/4 cup cucumber finely chopped","salt optional"]
+Rating: {"@type":"AggregateRating","ratingValue":4.458333333333333,"reviewCount":24}
+Cook Time: "PT15M"
+Serve: "12 servings"
+Tags: "Quick and Easy, Low Sodium, Breakfast and Brunch, Quick, Easy, Low Sugar, Low Saturated Fat, Low Carb, Low Calorie, Low Fat"
+Recipe Type: ["Breakfast and Brunch"]
+[
+{
+Name: "Roasted Sweet Potato Fries with Chipotle Aioli"
+Photo: "https://lh3.googleusercontent.com/dpG8aOujWQca4in4ea4eKKqqmkb-VJkn_SZsV8IKIXHWybpBiyFNu4vZX0HaoKAA7gpWQDBhtysW727-bBdl"
+URL: "https://www.yummly.com/recipe/Roasted-Sweet-Potato-Fries-with-Chipotle-Aioli-2482407"
+Ingredients: ["1 sweet potato large, about 1 lb.","1 tablespoon olive oil","1/2 teaspoon salt","1/2 teaspoon black pepper","1/2 cup mayonnaise","1/2 teaspoon honey","1/4 teaspoon garlic powder","1 can chipotle peppers in adobo"]
+Cook Time: "PT29M"
+Serve: "1 servings"
+Tags: "Roasting, Quick, Side Dishes, Fries"
+Recipe Type: ["Side Dishes"]
+[
+{
+Name: "Crispy Potato Patties"
+Photo: "https://lh3.googleusercontent.com/huvxODpay40xhzjUBpAlbXXU0SSlqhaJR77TKWlsST4vk8o6oVmtRhdrKZ0xVDkBYl43CpwpK0_dVe25Y2fRNEw"
+URL: "https://www.yummly.com/recipe/Crispy-Potato-Patties-2497252"
+Ingredients: ["2 cups mashed potatoes prepared","1 egg beaten","1 small onion finely minced","1/4 teaspoon salt","1/4 teaspoon black pepper","2 1/2 tablespoons olive oil"]
+Rating: {"@type":"AggregateRating","ratingValue":4.333333333333333,"reviewCount":3}
+Cook Time: "PT20M"
+Serve: "4 servings"
+Tags: "Quick and Easy, Quick, Easy"
+[
+{
+Name: "Best Homemade Bread"
+Photo: "https://lh3.googleusercontent.com/J7JpF76dYucNZIJYzpJEXADPzHtGdQ276ceZZeGPazx2jL-d91MJpKnDlqw3tr2UfOL1d1aUyN2QxiW0__J91g"
+URL: "https://www.yummly.com/recipe/Best-Homemade-Bread-2635177"
+Ingredients: ["2 cups warm water 110 degrees F/45 degrees C","1/4 cup white sugar","1 1/2 tablespoons active dry yeast","1 1/2 teaspoons salt","1/4 cup vegetable oil","6 cups bread flour"]
+Rating: {"@type":"AggregateRating","ratingValue":4.666666666666667,"reviewCount":3}
+Cook Time: "PT50M"
+Serve: "20 servings"
+Tags: "Baking, Breads"
+Recipe Type: ["Breads"]
+[
+{
+Name: "Creamy Crack Dip"
+Photo: "https://lh3.googleusercontent.com/es5x9po9AcjWg0Syx4v0lnZ9XY8ANVpdR_7wuipvSFUTi2Ql7bOHMI8iM56-y4Nv4Ly-HgADa2J0EjFyHB3p9Q"
+URL: "https://www.yummly.com/recipe/Creamy-Crack-Dip-2630512"
+Ingredients: ["1 cup chopped bacon cooked","8 ounces cream cheese","2 tablespoons seasoning mix Hidden Valley Original","1 cup shredded cheddar cheese","1/3 cup milk"]
+Rating: {"@type":"AggregateRating","ratingValue":4.8,"reviewCount":5}
+Cook Time: "PT10M"
+Serve: "7 servings"
+Tags: "Quick and Easy, High Calcium, Appetizers, Dips and Spreads, Quick, Easy, Low Sugar, High Protein, Low Carb"
+Recipe Type: ["Appetizers"]
+[
+{
+Name: "Warm Holiday Ham Crescents"
+Photo: "https://lh3.googleusercontent.com/Qn4aKSSl7Ue9JyA3c6BwUwAupcey5x6YrYeu6jcxDS601wllENWbILw70VDvuv-6W5e6-2aYDhKWtJFkaVlyu7k"
+URL: "https://www.yummly.com/recipe/Warm-Holiday-Ham-Crescents-2249545"
+Ingredients: ["1/2 pound fully cooked ham brown-sugar, shaved","8 ounces crescent dinner rolls refrigerated","4 slices mozzarella cheese OR Swiss, cut diagonally","3 tablespoons mayonnaise OR salad dressing","1 tablespoon dijon style mustard"]
+Rating: {"@type":"AggregateRating","ratingValue":4.714285714285714,"reviewCount":7}
+Cook Time: "PT25M"
+Serve: "8 servings"
+Tags: "Easy, Low Sugar, Low Carb, Low Calorie"
+[
+{
+Name: "Lemon Chicken Scallopini With Spinach"
+Photo: "https://lh3.googleusercontent.com/lZePtEa3lwMgTsKWFwHKEYx38DqfWBO1Sd7SjbfPrAOhaKauClyVbN0rGEM3PvBTwdyxygiEIRvDU45-lnabidQ"
+URL: "https://www.yummly.com/recipe/Lemon-Chicken-Scallopini-With-Spinach-2594925"
+Ingredients: ["1 lemon large","1 tablespoon olive oil","1 pound skinless, boneless chicken breast halves thin-sliced","1 clove garlic minced","3/4 cup unsalted chicken stock","1 can cream of celery soup Campbell's® Healthy Request® Condensed Healthy Request®","4 cups baby spinach"]
+Rating: {"@type":"AggregateRating","ratingValue":3.787878787878788,"reviewCount":33}
+Cook Time: "PT25M"
+Serve: "4 servings"
+Tags: "High Vitamin C, Quick, Main Dishes, Browning, Low Sodium, Low Sugar, Low Saturated Fat, Low Carb, Low Calorie, Low Fat"
+Recipe Type: ["Main Dishes"]
+[
+{
+Name: "Steakhouse Mushrooms"
+Photo: "https://lh3.googleusercontent.com/FecKbig8OKAQeQx_8oqkXLF7B491wxBb4B-IX4kxJF0PZYdQ8WZcUOYUXFkxioCR-BPJEmUn9wFLM9l3601A"
+URL: "https://www.yummly.com/recipe/Steakhouse-Mushrooms-2468594"
+Ingredients: ["2 tablespoons butter","1/2 onion cut in half crosswise","8 ounces sliced mushrooms","1/2 teaspoon crushed garlic or so, 2 small cloves or 1 large","1/2 teaspoon salt","1/4 teaspoon pepper","2 teaspoons Worcestershire sauce white or traditional"]
+Rating: {"@type":"AggregateRating","ratingValue":4.666666666666667,"reviewCount":24}
+Cook Time: "PT25M"
+Serve: "4 servings"
+Tags: "Quick and Easy, Low Sugar, Browning, Quick, Easy, Low Carb, Low Calorie"
+[
+{
+Name: "Flush All Toxins Out of Your System With This Powerful Drink"
+Photo: "https://lh3.googleusercontent.com/6eDVzsTMKDk9ajzb42rG00DDzSV9FFdIPio-aCEYaoDOkp4F3Dy11ilyj86t9RGs1yHBkph9NRtUK6duIwqGqQ"
+URL: "https://www.yummly.com/recipe/Flush-All-Toxins-Out-of-Your-System-With-This-Powerful-Drink-2304179"
+Ingredients: ["1 cucumber small","2 tablespoons ginger","3 fresh mint leaves","1 lemon","1 dry pint water"]
+Rating: {"@type":"AggregateRating","ratingValue":5,"reviewCount":1}
+Cook Time: "PT25M"
+Serve: "4 servings"
+Tags: "Easy, Boiling, Beverages"
+Recipe Type: ["Beverages"]
+[
+{
+Name: "Coffee Cake Muffins"
+Photo: "https://lh3.googleusercontent.com/pFfDtvlDa-xUV5GcIgBeWkZUSCdVeXQuZSrwASr02s2wkU7L10HB1q05qv1yo6gbCL1uAvGuTDhEP6RMuhbGdw"
+URL: "https://www.yummly.com/recipe/Coffee-Cake-Muffins-2440474"
+Ingredients: ["1/2 cup unsalted butter softened","1/2 cup granulated sugar divided","1 cup light brown sugar packed, divided","1 teaspoon vanilla extract","2 large eggs","1/2 cup sour cream","1/4 cup milk","2 7/8 cups all purpose flour divided","1 teaspoon baking powder","1 teaspoon baking soda","2 1/2 teaspoons cinnamon divided","3/4 teaspoon salt divided","6 tablespoons unsalted butter melted"]
+Cook Time: "PT36M"
+Serve: "12 servings"
+Tags: "Breads, Muffins, Baking"
+Recipe Type: ["Breads"]
+[
+{
+Name: "Easy Protein Balls Low Carb No Bake Keto"
+Photo: "https://lh3.googleusercontent.com/FDQP6l-5TBmTC7ExL-kDvdP12ZxlyOsQJ0WIS7PKf4Rt-mq5GJDJfA2dIZksGIRrJxrYbyFHLU75GVeG81p_xA"
+URL: "https://www.yummly.com/recipe/Easy-Protein-Balls-Low-Carb-No-Bake-Keto-2638551"
+Ingredients: ["3/4 cup creamy peanut butter","1 1/4 cups almond flour","3 tablespoons erythritol powdered","1 teaspoon ground cinnamon","1/4 teaspoon salt"]
+Rating: {"@type":"AggregateRating","ratingValue":4.5,"reviewCount":4}
+Cook Time: "PT35M"
+Serve: "4 servings"
+Tags: "Easy"
+[
+{
+Name: "Air Fryer Baked Potatoes"
+Photo: "https://lh3.googleusercontent.com/adNqNEC155kWQo9ZUtLRhF73FZXHZOtBG8LkugWHk-42MFgs-0-12xlEkSRILQeyyt5RCWn6Fmx2GGG6SAVYaSw"
+URL: "https://www.yummly.com/recipe/Air-Fryer-Baked-Potatoes-2632329"
+Ingredients: ["3 russet potatoes medium sized, scrubbed and rinsed","cooking spray I used avocado oil spray","1/2 teaspoon sea salt use a bit less if you are using a finer salt, like table salt","1/2 teaspoon garlic powder"]
+Rating: {"@type":"AggregateRating","ratingValue":5,"reviewCount":5}
+Cook Time: "PT42M"
+Serve: "4 servings"
+Tags: "Browning, Side Dishes, Baked Potato, Easy"
+Recipe Type: ["Side Dishes"]
+[
+{
+Name: "Juicy Skillet Pork Chops"
+Photo: "https://lh3.googleusercontent.com/fO1TmIluD4ge4SBcCtR-Rzp7V183CZoc63TL9gRwhUP8Nwr-LMk5xUgoT2x4zePf6ibo_EzexxJPXI2xLs7_"
+URL: "https://www.yummly.com/recipe/Juicy-Skillet-Pork-Chops-2629346"
+Ingredients: ["2 bone-in pork chops thick cut, 1.5-2\"","1 teaspoon salt","1 teaspoon black pepper","2 tablespoons extra virgin olive oil","2 tablespoons salted butter"]
+Rating: {"@type":"AggregateRating","ratingValue":5,"reviewCount":4}
+Cook Time: "PT30M"
+Serve: "2 servings"
+Tags: "Quick and Easy, No Carb, Main Dishes, Quick, Easy, Sugar Free, Low Sugar, High Protein, Low Carb"
+Recipe Type: ["Main Dishes"]
+[
+{
+Name: "Instant Pot Baby Back Ribs"
+Photo: "https://lh3.googleusercontent.com/DBeJGcp0qaw9lsBYv6MB0evHUAtTwRan_NXoaPCx2lPl6B8tY6AR2-mQ2twRIMX9wx42R9URF7ycB7U2cH6D"
+URL: "https://www.yummly.com/recipe/Instant-Pot-Baby-Back-Ribs-2451769"
+Ingredients: ["3 racks baby-back pork ribs","1 cup water","1/3 cup apple cider vinegar","1 tablespoon granulated garlic per rack","1 teaspoon salt per rack","1 teaspoon pepper per rack","1/4 cup bbq sauce per rack"]
+Rating: {"@type":"AggregateRating","ratingValue":4.8,"reviewCount":5}
+Cook Time: "PT40M"
+Serve: "4 servings"
+Tags: "Easy, Ribs, Broiling, Main Dishes, Grilling"
+Recipe Type: ["Main Dishes"]
+[
+{
+Name: "The Best Hot Chocolate Recipe Ever"
+Photo: "https://lh3.googleusercontent.com/80TY_G6MS5SifIa6C6ygY3wMP-D3Ix6YXhQ7AtV6WBAEb77pRgeOFCJfHhKVFZ4JSjwCD48du-lsLJ0LYtyo_w"
+URL: "https://www.yummly.com/recipe/The-Best-Hot-Chocolate-Recipe-Ever-2529145"
+Ingredients: ["2 cups half and half","2 tablespoons granulated sugar","1 tablespoon Dutch process cocoa powder Valrhona","1 1/2 ounces dark chocolate Valrona P125, an 80%","1 pinch salt"]
+Rating: {"@type":"AggregateRating","ratingValue":3.5,"reviewCount":2}
+Cook Time: "PT15M"
+Serve: "4 servings"
+Tags: "Easy, Boiling"
+[
+{
+Name: "Balsamic Whiskey Sirloin"
+Photo: "https://lh3.googleusercontent.com/Uk9Ajf8ZXQ2tgHOxk11BImTdzLF54v05cHq1h7v_ljnqloxwxHaBQJoGJH8DnVrPuowLP67ewYakCcsAIZ2taQ"
+URL: "https://www.yummly.com/recipe/Balsamic-Whiskey-Sirloin-2559806"
+Ingredients: ["1 1/2 pounds sirloin trimmed","1/2 cup whiskey I used Jim Beam","1/2 cup balsamic vinegar cheapest you can find","fine sea salt","cracked pepper"]
+Rating: {"@type":"AggregateRating","ratingValue":4.5,"reviewCount":2}
+Cook Time: "PT55M"
+Serve: "4 servings"
+Tags: "Main Dishes, Barbecue, Grilling"
+Recipe Type: ["Main Dishes"]
+[
+{
+Name: "Mediterranean Grilled Artichokes"
+Photo: "https://lh3.googleusercontent.com/vSkOSA8q83sBnnXRHXpKvXMYacCjM4ZVopqOqeiyZIX7M2ZpRPWNOw2hoAl0Zf7_QqGcSE1wlhchFJ_AwpO1Yw"
+URL: "https://www.yummly.com/recipe/Mediterranean-Grilled-Artichokes-2401284"
+Ingredients: ["2 artichokes","1 tablespoon olive oil","1 lemon Cut in half","1/4 teaspoon oregano","1/4 teaspoon thyme","1/4 teaspoon rosemary","1/4 teaspoon garlic salt"]
+Cook Time: "PT50M"
+Serve: "4 servings"
+Tags: "Steaming, Grilling"
+[
+{
+Name: "Homemade Ranch Dressing"
+Photo: "https://lh3.googleusercontent.com/tpnMvZapC2axqoZXDJcaY5p7llNTZDsZoxMCGFfCPuOWHGSKDVdL_etTNBg_89BeeKre17tqDsm6vhFRtJUGgD0"
+URL: "https://www.yummly.com/recipe/Homemade-Ranch-Dressing-2650397"
+Ingredients: ["1/2 cup buttermilk","1/4 cup mayonnaise","1 teaspoon lemon juice","1/8 teaspoon paprika","1 tablespoon fresh parsley chopped","1 teaspoon chive fresh, chopped","1/4 teaspoon dill or a teaspoon chopped fresh","salt","pepper"]
+Cook Time: "PT5M"
+Serve: "10 servings"
+Tags: "Quick and Easy, Low Sugar, Salads, Quick, Easy, High Iron, Low Carb, Low Calorie"
+Recipe Type: ["Salads"]
+[
+{
+Name: "Cheese & Sausage Wontons"
+Photo: "https://lh3.googleusercontent.com/cORS-fY79K4KSu_wq-FtQhkPXACjwbXeSVMtF2KK0jZNqDBRwwEXKpBhxbylRRQveHLHLjJsB8_hLZLAarww"
+URL: "https://www.yummly.com/recipe/Cheese-_-Sausage-Wontons-2639332"
+Ingredients: ["12 ounces wonton wrappers","1 cup Sargento Shredded Mild Cheddar Cheese Traditional Cut, divided","1 cup shredded pepper jack cheese Sargento®","1 pound bulk sausage cooked and drained","2/3 cup ranch salad dressing"]
+Rating: {"@type":"AggregateRating","ratingValue":5,"reviewCount":1}
+Cook Time: "PT50M"
+Serve: "4 servings"
+Tags: "Appetizers, Easy"
+Recipe Type: ["Appetizers"]
+[
+{
+Name: "Grilled Artichokes With Parsley Sauce"
+Photo: "https://lh3.googleusercontent.com/cuXMA1dp_W2uowpXvK-3iBarj_JQD6l_OmeKmt2pRmeFv7Rgrt5Yng_fh_qDThVHJ0b03Mjs5G3BE9Ai0FNF"
+URL: "https://www.yummly.com/recipe/Grilled-Artichokes-With-Parsley-Sauce-2651460"
+Ingredients: ["4 artichokes medium","1 cup parsley leaves packed","1/4 cup lemon juice","1 tablespoon red wine vinegar","1 clove garlic","1 teaspoon fine sea salt","1/4 teaspoon black pepper"]
+Cook Time: "PT30M"
+Serve: "4 servings"
+[
+{
+Name: "Slow Cooker Crack Chicken"
+Photo: "https://lh3.googleusercontent.com/ZmsASm2juGUIlIefA60n2NnXzwRsDeWRJgqqmPQKhUk-K8IA0SGahqnu2IovUEF_lOegwk9N9UjRck8aQxxh2ho"
+URL: "https://www.yummly.com/recipe/Slow-Cooker-Crack-Chicken-2639145"
+Ingredients: ["4 chicken breasts frozen, about 2 pounds","2 seasoning Ranch Dressing, Packets","16 ounces cream cheese","8 slices bacon crumbled"]
+Rating: {"@type":"AggregateRating","ratingValue":4,"reviewCount":17}
+Cook Time: "PT8H15M"
+Serve: "8 servings"
+Tags: "Slow Cooking, Main Dishes, Easy, Microwaving"
+Recipe Type: ["Main Dishes"]
+[
+{
+Name: "Grilled Pork Chops with Basil-Garlic Rub"
+Photo: "https://lh3.googleusercontent.com/KQlVT3lrsGGQTcx9CXi_tHFLl0na9OSo_oGqRzF-iObzfR5IZvgHU051g0iwDPrWG23ZQKCSEggibdswiEOM"
+URL: "https://www.yummly.com/recipe/Grilled-Pork-Chops-with-Basil-Garlic-Rub-2261216"
+Ingredients: ["4 bone-in ribeye (rib) pork chops 3/4-Inch Thick","2 cloves garlic Peeled","1 cup fresh basil Packed","2 tablespoons lemon juice Fresh","2 tablespoons extra virgin olive oil","1 teaspoon coarse salt","1/2 teaspoon black pepper Freshly Ground"]
+Rating: {"@type":"AggregateRating","ratingValue":4.384615384615385,"reviewCount":26}
+Cook Time: "PT40M"
+Serve: "4 servings"
+Tags: "Main Dishes, Grilling"
+Recipe Type: ["Main Dishes"]
+[
+{
+Name: "Baked Zucchini Chips"
+Photo: "https://lh3.googleusercontent.com/Fnri8LJfsVzvImaT2ApqQ9lR5fnWm_GYnA81OEO30t6BQrpwnMftIN1cWOfnODOwHNobg6xUXCRlIZWbpCqojA"
+URL: "https://www.yummly.com/recipe/Baked-Zucchini-Chips-2614138"
+Ingredients: ["2 zucchini cut into 1/4 inch slices","1/2 cup bread crumbs seasoned dry","2 tablespoons grated parmesan cheese","2 egg whites","1/8 teaspoon black pepper"]
+Rating: {"@type":"AggregateRating","ratingValue":4.75,"reviewCount":4}
+Cook Time: "PT20M"
+Serve: "4 servings"
+[
+{
+Name: "Baked Pizza Taquitos"
+Photo: "https://lh3.googleusercontent.com/JWiZSL4xr5eB7EGRWTlOk0GRvkDFee5qSbOGZWGBanZf3AKpcg5ILeqqRJ0uTJljbHP0cTa_nrpRNwbOXtuMoPU"
+URL: "https://www.yummly.com/recipe/Baked-Pizza-Taquitos-2632755"
+Ingredients: ["8 whole wheat tortillas or soft multi-grain","1/2 cup pizza sauce plus more for dipping","2 cups shredded mozzarella cheese","48 slices pepperoni"]
+Rating: {"@type":"AggregateRating","ratingValue":4.857142857142857,"reviewCount":7}
+Cook Time: "PT25M"
+Serve: "8 servings"
+Tags: "Browning, Baking"
+[
+{
+Name: "Easy Salisbury Steak Bake"
+Photo: "https://lh3.googleusercontent.com/UDHPoPcg3r0HOVtttNQbe3Kq9qkbwp5uyeQGl2NCjXutJqFOoTWlqeCbusE-3qKCnNqTqwL2gMQY41hp-iBvBQ"
+URL: "https://www.yummly.com/recipe/Easy-Salisbury-Steak-Bake-2631609"
+Ingredients: ["2 pounds ground beef","1 can cream of mushroom","1 can water","1 package brown gravy mix","1 package lipton onion soup mix","8 ounces baby bella mushrooms sliced"]
+Rating: {"@type":"AggregateRating","ratingValue":4.666666666666667,"reviewCount":27}
+Cook Time: "PT1H"
+Serve: "4 servings"
+Tags: "Main Dishes, Easy"
+Recipe Type: ["Main Dishes"]
+[
+{
+Name: "Maximum Weight Loss Juice"
+Photo: "https://lh3.googleusercontent.com/StrmA3saWArOfBccBvEnBEuAYFO9cvn3z4jfuxNdlmtgJKi9XsRtgRVOUwgQbmsDwmGwfLx2A1rS_g0N0aneTg"
+URL: "https://www.yummly.com/recipe/Maximum-Weight-Loss-Juice-2626014"
+Ingredients: ["cucumbers 1 or 2","3 stalks celery","2 leaves kale","1 lemon","1/2 apple","2 inches ginger will speed up your metabolism"]
+Rating: {"@type":"AggregateRating","ratingValue":3,"reviewCount":3}
+Cook Time: "PT15M"
+Serve: "4 servings"
+Tags: "Beverages, Juice, Easy"
+Recipe Type: ["Beverages"]
+[
+{
+Name: "Perfect Homemade Alfredo Sauce"
+Photo: "https://lh3.googleusercontent.com/HUb4taJ_q-qYtsr-HtwQ-_x5Cw6keYOdqDUaXqVgmN4oWB4NU209F5WK3ao8aepuce73AcveJ6_EwmcKzvPS"
+URL: "https://www.yummly.com/recipe/Perfect-Homemade-Alfredo-Sauce-2643296"
+Ingredients: ["1/2 cup butter","2 garlic cloves minced","2 cups heavy cream","1/4 teaspoon white pepper","1/4 teaspoon salt","1 1/2 cups grated parmesan cheese"]
+Rating: {"@type":"AggregateRating","ratingValue":4.7384615384615385,"reviewCount":65}
+Cook Time: "PT25M"
+Serve: "4 servings"
+Tags: "Easy, Alfredo, Condiments and Sauces, Sugar Free, Boiling, High Vitamin D, High Calcium, Low Sugar, High Protein, Low Carb"
+Recipe Type: ["Condiments and Sauces"]
+[
+{
+Name: "Falafal"
+Photo: "https://lh3.googleusercontent.com/xKHCwVrgzUK2Bgu38mSyXEPAmanDTYEqqnfYbWBKZ3MhMmBKgP_Vo69WXH39cS9oiIDSLAPdqvci8NWTGdyy5w"
+URL: "https://www.yummly.com/recipe/Falafal-2236573"
+Ingredients: ["2 cups chick peas soaked","1/4 cup chopped onion","1 clove minced garlic","1 teaspoon dried parsley if you can afford fresh, add 1 cup chopped it has a wonderful taste","1/2 lemon can be omitted","1 teaspoon cumin can be omitted"]
+Rating: {"@type":"AggregateRating","ratingValue":1,"reviewCount":1}
+Cook Time: "PT35M"
+Serve: "4 servings"
+Tags: "Baking"
+[
+{
+Name: "2 Ingredient Weight Watchers Pancakes – Zero Points Freestyle"
+Photo: "https://lh3.googleusercontent.com/Jc64-p37GGtrY0amveoOaP9uCEOoLzuMXytgEvTHdbpvMGjf0F_T7V9NZW9ss8LdHo9L9m9qzb6pGYiOKYy2FQ"
+URL: "https://www.yummly.com/recipe/2-Ingredient-Weight-Watchers-Pancakes-Zero-Points-Freestyle-2645921"
+Ingredients: ["1 banana ripe","2 eggs","vanilla","cinnamon"]
+Rating: {"@type":"AggregateRating","ratingValue":5,"reviewCount":2}
+Cook Time: "PT15M"
+Serve: "6 servings"
+Tags: "Quick and Easy, Low Sodium, Breakfast and Brunch, Quick, Easy, Low Sugar, Low Saturated Fat, Low Carb, Low Calorie, Low Fat"
+Recipe Type: ["Breakfast and Brunch"]
+[
+{
+Name: "Meatball Parmesan Casserole"
+Photo: "https://lh3.googleusercontent.com/8H_kR4fF6IE517FKDHGOyVHEgNmmCdhX_Yz2YfxIDJgCQoU_NJ-hw_FJ1jEolQPPAfoKuKMw4jYjJK512gTyfQ"
+URL: "https://www.yummly.com/recipe/Meatball-Parmesan-Casserole-2626493"
+Ingredients: ["1 bag frozen meatballs cooked according to package directions","pasta sauce","2 cups shredded mozzarella cheese","1 cup shredded parmesan cheese","Italian seasoning to taste"]
+Rating: {"@type":"AggregateRating","ratingValue":4.545454545454546,"reviewCount":22}
+Cook Time: "PT15M"
+Serve: "7 servings"
+Tags: "Casserole, Easy, Quick and Easy, Quick"
+[
+{
+Name: "Simple Skillet Green Beans"
+Photo: "https://lh3.googleusercontent.com/b3D-gQemnyclzNiDttlhLTbyWe7UoUBKAcD2cSpxAQ4HPtYHEZESXhp0kg6HXVykUGALYHcn_8cEB22B_qbR"
+URL: "https://www.yummly.com/recipe/Simple-Skillet-Green-Beans-2352743"
+Ingredients: ["2 tablespoons extra virgin olive oil","1/2 teaspoon red pepper flake or to taste","1 1/2 pounds green beans trimmed","2 cloves garlic minced","1/2 teaspoon coarse kosher salt","2 tablespoons water"]
+Rating: {"@type":"AggregateRating","ratingValue":4.410714285714286,"reviewCount":56}
+Cook Time: "PT15M"
+Serve: "5 servings"
+Tags: "Quick and Easy, High Vitamin C, Side Dishes, Quick, Easy, Low Sodium, Low Sugar, Low Saturated Fat, High Iron, Low Carb, Low Calorie, High Fiber"
+Recipe Type: ["Side Dishes"]
+[
+{
+Name: "Baked Buffalo Chicken Tenders"
+Photo: "https://lh3.googleusercontent.com/D1yB3qTV5WVXny80ev3O-c8aUFRPYcchdCUkF1Dshe2yuE7bRfR7BauR9xp_ls34JBQNgnsZTOQYgHvmAt2mPtQ"
+URL: "https://www.yummly.com/recipe/Baked-Buffalo-Chicken-Tenders-2649610"
+Ingredients: ["2/3 cup all purpose flour or panko breadcrumbs, if you prefer a crunchy coating","1/2 teaspoon cayenne pepper","1/2 teaspoon paprika","1/2 teaspoon garlic powder","1/2 teaspoon salt","3 boneless skinless chicken breasts divided into 10 tenders","1/2 cup butter melted","1/2 cup hot sauce"]
+Rating: {"@type":"AggregateRating","ratingValue":4.666666666666667,"reviewCount":3}
+Cook Time: "PT35M"
+Serve: "10 servings"
+Tags: "Baking, Chicken Tenders, Browning"
+[
+{
+Name: "Sparkling Tropical Mimosa Punch"
+Photo: "https://lh3.googleusercontent.com/l49fXjPb6UHJEeFQtnY-gsW-HRphpKFxR27qbswON_YWzMF8BfukuItRCeIJH4PCYYbW9FzXlepjMctwmBJA"
+URL: "https://www.yummly.com/recipe/Sparkling-Tropical-Mimosa-Punch-2625049"
+Ingredients: ["2 cups pineapple juice","2 cups orange juice","2 cups cranberry juice","2 cups guava nectar","1 cup apple juice","750 milliliters sparkling wine"]
+Rating: {"@type":"AggregateRating","ratingValue":1,"reviewCount":1}
+Cook Time: "PT10M"
+Serve: "12 servings"
+Tags: "Easy, Beverages, Punch, Cocktails"
+Recipe Type: ["Beverages","Cocktails"]
+[
+{
+Name: "Slow-Roasted Beef Tenderloin"
+Photo: "https://lh3.googleusercontent.com/7cz_eMiazA3LLAQ567Z8V7Tyqyn4sOZ8A-MvTLjw1pt1tvSrDxYd5LKpmGBB8jkf_PToutCBV8iLbeXEMWTU9A"
+URL: "https://www.yummly.com/recipe/Slow-Roasted-Beef-Tenderloin-2618548"
+Ingredients: ["6 pounds beef tenderloin trimmed of fat, tied","olive oil","sea salt","cracked pepper Fresh"]
+Rating: {"@type":"AggregateRating","ratingValue":5,"reviewCount":1}
+Cook Time: "PT1H10M"
+Serve: "4 servings"
+Tags: "Main Dishes, Roasting, Easy"
+Recipe Type: ["Main Dishes"]
+[
+{
+Name: "Easy Healthy Maple Glazed Salmon in Foil"
+Photo: "https://lh3.googleusercontent.com/Of0nipZXlHplyCI1Fw--rGNe7Rcj5HXAyI-cWjmqJBtYg0BRF6E43Y7RxA690eUdQykHZP8twgfjn64HN7Fa2A"
+URL: "https://www.yummly.com/recipe/Easy-Healthy-Maple-Glazed-Salmon-in-Foil-2637614"
+Ingredients: ["3 pounds salmon","3 tablespoons dijon mustard","2 tablespoons chili powder","2 tablespoons smoked paprika","1 1/2 tablespoons brown sugar","1 1/2 teaspoons salt","1/2 cup pure maple syrup"]
+Rating: {"@type":"AggregateRating","ratingValue":3,"reviewCount":7}
+Cook Time: "PT35M"
+Serve: "8 servings"
+Tags: "High Vitamin D, Main Dishes, Low Saturated Fat, High Protein, Low Carb, Low Calorie, Low Fat"
+Recipe Type: ["Main Dishes"]
+[
+{
+Name: "Easy Biscuits"
+Photo: "https://lh3.googleusercontent.com/OodWEVUhVUn08epNG90IRcHPwWlsnwrN7eouBwHgtQ1C69YM7MTX44dKmJyWDzWMwoxP37OLP-OlGgltr1oE"
+URL: "https://www.yummly.com/recipe/Easy-Biscuits-2630591"
+Ingredients: ["2 cups flour","1 tablespoon baking powder","1 teaspoon salt","4 tablespoons butter","3/4 cup milk"]
+Cook Time: "PT40M"
+Serve: "4 servings"
+Tags: "Breads, Baking"
+Recipe Type: ["Breads"]
+[
+{
+Name: "Morning Egg Bites"
+Photo: "https://lh3.googleusercontent.com/L9gsprW9ZFx5JXgqmWeIb-DfvYG_TnVL29234DmhJurZyKoJ0INKKID_9Xu6MQn6SfC9oxXGgEDJbASvfO5z"
+URL: "https://www.yummly.com/recipe/Morning-Egg-Bites-2636113"
+Ingredients: ["3 eggs","1/2 tomato finely chopped","1/4 bell pepper finely chopped","1 handful spinach finely chopped","1/4 cup cucumber finely chopped","salt optional"]
+Rating: {"@type":"AggregateRating","ratingValue":4.458333333333333,"reviewCount":24}
+Cook Time: "PT15M"
+Serve: "12 servings"
+Tags: "Quick and Easy, Low Sodium, Breakfast and Brunch, Quick, Easy, Low Sugar, Low Saturated Fat, Low Carb, Low Calorie, Low Fat"
+Recipe Type: ["Breakfast and Brunch"]
+[
+{
+Name: "Roasted Sweet Potato Fries with Chipotle Aioli"
+Photo: "https://lh3.googleusercontent.com/dpG8aOujWQca4in4ea4eKKqqmkb-VJkn_SZsV8IKIXHWybpBiyFNu4vZX0HaoKAA7gpWQDBhtysW727-bBdl"
+URL: "https://www.yummly.com/recipe/Roasted-Sweet-Potato-Fries-with-Chipotle-Aioli-2482407"
+Ingredients: ["1 sweet potato large, about 1 lb.","1 tablespoon olive oil","1/2 teaspoon salt","1/2 teaspoon black pepper","1/2 cup mayonnaise","1/2 teaspoon honey","1/4 teaspoon garlic powder","1 can chipotle peppers in adobo"]
+Cook Time: "PT29M"
+Serve: "1 servings"
+Tags: "Roasting, Quick, Side Dishes, Fries"
+Recipe Type: ["Side Dishes"]
+[
+{
+Name: "Crispy Potato Patties"
+Photo: "https://lh3.googleusercontent.com/huvxODpay40xhzjUBpAlbXXU0SSlqhaJR77TKWlsST4vk8o6oVmtRhdrKZ0xVDkBYl43CpwpK0_dVe25Y2fRNEw"
+URL: "https://www.yummly.com/recipe/Crispy-Potato-Patties-2497252"
+Ingredients: ["2 cups mashed potatoes prepared","1 egg beaten","1 small onion finely minced","1/4 teaspoon salt","1/4 teaspoon black pepper","2 1/2 tablespoons olive oil"]
+Rating: {"@type":"AggregateRating","ratingValue":4.333333333333333,"reviewCount":3}
+Cook Time: "PT20M"
+Serve: "4 servings"
+Tags: "Quick and Easy, Quick, Easy"
+[
+{
+Name: "Best Homemade Bread"
+Photo: "https://lh3.googleusercontent.com/J7JpF76dYucNZIJYzpJEXADPzHtGdQ276ceZZeGPazx2jL-d91MJpKnDlqw3tr2UfOL1d1aUyN2QxiW0__J91g"
+URL: "https://www.yummly.com/recipe/Best-Homemade-Bread-2635177"
+Ingredients: ["2 cups warm water 110 degrees F/45 degrees C","1/4 cup white sugar","1 1/2 tablespoons active dry yeast","1 1/2 teaspoons salt","1/4 cup vegetable oil","6 cups bread flour"]
+Rating: {"@type":"AggregateRating","ratingValue":4.666666666666667,"reviewCount":3}
+Cook Time: "PT50M"
+Serve: "20 servings"
+Tags: "Baking, Breads"
+Recipe Type: ["Breads"]
+[
+{
+Name: "Creamy Crack Dip"
+Photo: "https://lh3.googleusercontent.com/es5x9po9AcjWg0Syx4v0lnZ9XY8ANVpdR_7wuipvSFUTi2Ql7bOHMI8iM56-y4Nv4Ly-HgADa2J0EjFyHB3p9Q"
+URL: "https://www.yummly.com/recipe/Creamy-Crack-Dip-2630512"
+Ingredients: ["1 cup chopped bacon cooked","8 ounces cream cheese","2 tablespoons seasoning mix Hidden Valley Original","1 cup shredded cheddar cheese","1/3 cup milk"]
+Rating: {"@type":"AggregateRating","ratingValue":4.8,"reviewCount":5}
+Cook Time: "PT10M"
+Serve: "7 servings"
+Tags: "Quick and Easy, High Calcium, Appetizers, Dips and Spreads, Quick, Easy, Low Sugar, High Protein, Low Carb"
+Recipe Type: ["Appetizers"]
+[
+{
+Name: "Warm Holiday Ham Crescents"
+Photo: "https://lh3.googleusercontent.com/Qn4aKSSl7Ue9JyA3c6BwUwAupcey5x6YrYeu6jcxDS601wllENWbILw70VDvuv-6W5e6-2aYDhKWtJFkaVlyu7k"
+URL: "https://www.yummly.com/recipe/Warm-Holiday-Ham-Crescents-2249545"
+Ingredients: ["1/2 pound fully cooked ham brown-sugar, shaved","8 ounces crescent dinner rolls refrigerated","4 slices mozzarella cheese OR Swiss, cut diagonally","3 tablespoons mayonnaise OR salad dressing","1 tablespoon dijon style mustard"]
+Rating: {"@type":"AggregateRating","ratingValue":4.714285714285714,"reviewCount":7}
+Cook Time: "PT25M"
+Serve: "8 servings"
+Tags: "Easy, Low Sugar, Low Carb, Low Calorie"
+[
+{
+Name: "Lemon Chicken Scallopini With Spinach"
+Photo: "https://lh3.googleusercontent.com/lZePtEa3lwMgTsKWFwHKEYx38DqfWBO1Sd7SjbfPrAOhaKauClyVbN0rGEM3PvBTwdyxygiEIRvDU45-lnabidQ"
+URL: "https://www.yummly.com/recipe/Lemon-Chicken-Scallopini-With-Spinach-2594925"
+Ingredients: ["1 lemon large","1 tablespoon olive oil","1 pound skinless, boneless chicken breast halves thin-sliced","1 clove garlic minced","3/4 cup unsalted chicken stock","1 can cream of celery soup Campbell's® Healthy Request® Condensed Healthy Request®","4 cups baby spinach"]
+Rating: {"@type":"AggregateRating","ratingValue":3.787878787878788,"reviewCount":33}
+Cook Time: "PT25M"
+Serve: "4 servings"
+Tags: "High Vitamin C, Quick, Main Dishes, Browning, Low Sodium, Low Sugar, Low Saturated Fat, Low Carb, Low Calorie, Low Fat"
+Recipe Type: ["Main Dishes"]
+[
+{
+Name: "Steakhouse Mushrooms"
+Photo: "https://lh3.googleusercontent.com/FecKbig8OKAQeQx_8oqkXLF7B491wxBb4B-IX4kxJF0PZYdQ8WZcUOYUXFkxioCR-BPJEmUn9wFLM9l3601A"
+URL: "https://www.yummly.com/recipe/Steakhouse-Mushrooms-2468594"
+Ingredients: ["2 tablespoons butter","1/2 onion cut in half crosswise","8 ounces sliced mushrooms","1/2 teaspoon crushed garlic or so, 2 small cloves or 1 large","1/2 teaspoon salt","1/4 teaspoon pepper","2 teaspoons Worcestershire sauce white or traditional"]
+Rating: {"@type":"AggregateRating","ratingValue":4.666666666666667,"reviewCount":24}
+Cook Time: "PT25M"
+Serve: "4 servings"
+Tags: "Quick and Easy, Low Sugar, Browning, Quick, Easy, Low Carb, Low Calorie"
+[
+{
+Name: "Flush All Toxins Out of Your System With This Powerful Drink"
+Photo: "https://lh3.googleusercontent.com/6eDVzsTMKDk9ajzb42rG00DDzSV9FFdIPio-aCEYaoDOkp4F3Dy11ilyj86t9RGs1yHBkph9NRtUK6duIwqGqQ"
+URL: "https://www.yummly.com/recipe/Flush-All-Toxins-Out-of-Your-System-With-This-Powerful-Drink-2304179"
+Ingredients: ["1 cucumber small","2 tablespoons ginger","3 fresh mint leaves","1 lemon","1 dry pint water"]
+Rating: {"@type":"AggregateRating","ratingValue":5,"reviewCount":1}
+Cook Time: "PT25M"
+Serve: "4 servings"
+Tags: "Easy, Boiling, Beverages"
+Recipe Type: ["Beverages"]
+[
+{
+Name: "Coffee Cake Muffins"
+Photo: "https://lh3.googleusercontent.com/pFfDtvlDa-xUV5GcIgBeWkZUSCdVeXQuZSrwASr02s2wkU7L10HB1q05qv1yo6gbCL1uAvGuTDhEP6RMuhbGdw"
+URL: "https://www.yummly.com/recipe/Coffee-Cake-Muffins-2440474"
+Ingredients: ["1/2 cup unsalted butter softened","1/2 cup granulated sugar divided","1 cup light brown sugar packed, divided","1 teaspoon vanilla extract","2 large eggs","1/2 cup sour cream","1/4 cup milk","2 7/8 cups all purpose flour divided","1 teaspoon baking powder","1 teaspoon baking soda","2 1/2 teaspoons cinnamon divided","3/4 teaspoon salt divided","6 tablespoons unsalted butter melted"]
+Cook Time: "PT36M"
+Serve: "12 servings"
+Tags: "Breads, Muffins, Baking"
+Recipe Type: ["Breads"]
+[
+{
+Name: "Easy Protein Balls Low Carb No Bake Keto"
+Photo: "https://lh3.googleusercontent.com/FDQP6l-5TBmTC7ExL-kDvdP12ZxlyOsQJ0WIS7PKf4Rt-mq5GJDJfA2dIZksGIRrJxrYbyFHLU75GVeG81p_xA"
+URL: "https://www.yummly.com/recipe/Easy-Protein-Balls-Low-Carb-No-Bake-Keto-2638551"
+Ingredients: ["3/4 cup creamy peanut butter","1 1/4 cups almond flour","3 tablespoons erythritol powdered","1 teaspoon ground cinnamon","1/4 teaspoon salt"]
+Rating: {"@type":"AggregateRating","ratingValue":4.5,"reviewCount":4}
+Cook Time: "PT35M"
+Serve: "4 servings"
+Tags: "Easy"
+[
+{
+Name: "Air Fryer Baked Potatoes"
+Photo: "https://lh3.googleusercontent.com/adNqNEC155kWQo9ZUtLRhF73FZXHZOtBG8LkugWHk-42MFgs-0-12xlEkSRILQeyyt5RCWn6Fmx2GGG6SAVYaSw"
+URL: "https://www.yummly.com/recipe/Air-Fryer-Baked-Potatoes-2632329"
+Ingredients: ["3 russet potatoes medium sized, scrubbed and rinsed","cooking spray I used avocado oil spray","1/2 teaspoon sea salt use a bit less if you are using a finer salt, like table salt","1/2 teaspoon garlic powder"]
+Rating: {"@type":"AggregateRating","ratingValue":5,"reviewCount":5}
+Cook Time: "PT42M"
+Serve: "4 servings"
+Tags: "Browning, Side Dishes, Baked Potato, Easy"
+Recipe Type: ["Side Dishes"]
+[
+{
+Name: "Juicy Skillet Pork Chops"
+Photo: "https://lh3.googleusercontent.com/fO1TmIluD4ge4SBcCtR-Rzp7V183CZoc63TL9gRwhUP8Nwr-LMk5xUgoT2x4zePf6ibo_EzexxJPXI2xLs7_"
+URL: "https://www.yummly.com/recipe/Juicy-Skillet-Pork-Chops-2629346"
+Ingredients: ["2 bone-in pork chops thick cut, 1.5-2\"","1 teaspoon salt","1 teaspoon black pepper","2 tablespoons extra virgin olive oil","2 tablespoons salted butter"]
+Rating: {"@type":"AggregateRating","ratingValue":5,"reviewCount":4}
+Cook Time: "PT30M"
+Serve: "2 servings"
+Tags: "Quick and Easy, No Carb, Main Dishes, Quick, Easy, Sugar Free, Low Sugar, High Protein, Low Carb"
+Recipe Type: ["Main Dishes"]
+[
+{
+Name: "Instant Pot Baby Back Ribs"
+Photo: "https://lh3.googleusercontent.com/DBeJGcp0qaw9lsBYv6MB0evHUAtTwRan_NXoaPCx2lPl6B8tY6AR2-mQ2twRIMX9wx42R9URF7ycB7U2cH6D"
+URL: "https://www.yummly.com/recipe/Instant-Pot-Baby-Back-Ribs-2451769"
+Ingredients: ["3 racks baby-back pork ribs","1 cup water","1/3 cup apple cider vinegar","1 tablespoon granulated garlic per rack","1 teaspoon salt per rack","1 teaspoon pepper per rack","1/4 cup bbq sauce per rack"]
+Rating: {"@type":"AggregateRating","ratingValue":4.8,"reviewCount":5}
+Cook Time: "PT40M"
+Serve: "4 servings"
+Tags: "Easy, Ribs, Broiling, Main Dishes, Grilling"
+Recipe Type: ["Main Dishes"]
+[
+{
+Name: "The Best Hot Chocolate Recipe Ever"
+Photo: "https://lh3.googleusercontent.com/80TY_G6MS5SifIa6C6ygY3wMP-D3Ix6YXhQ7AtV6WBAEb77pRgeOFCJfHhKVFZ4JSjwCD48du-lsLJ0LYtyo_w"
+URL: "https://www.yummly.com/recipe/The-Best-Hot-Chocolate-Recipe-Ever-2529145"
+Ingredients: ["2 cups half and half","2 tablespoons granulated sugar","1 tablespoon Dutch process cocoa powder Valrhona","1 1/2 ounces dark chocolate Valrona P125, an 80%","1 pinch salt"]
+Rating: {"@type":"AggregateRating","ratingValue":3.5,"reviewCount":2}
+Cook Time: "PT15M"
+Serve: "4 servings"
+Tags: "Easy, Boiling"
+[
+{
+Name: "Balsamic Whiskey Sirloin"
+Photo: "https://lh3.googleusercontent.com/Uk9Ajf8ZXQ2tgHOxk11BImTdzLF54v05cHq1h7v_ljnqloxwxHaBQJoGJH8DnVrPuowLP67ewYakCcsAIZ2taQ"
+URL: "https://www.yummly.com/recipe/Balsamic-Whiskey-Sirloin-2559806"
+Ingredients: ["1 1/2 pounds sirloin trimmed","1/2 cup whiskey I used Jim Beam","1/2 cup balsamic vinegar cheapest you can find","fine sea salt","cracked pepper"]
+Rating: {"@type":"AggregateRating","ratingValue":4.5,"reviewCount":2}
+Cook Time: "PT55M"
+Serve: "4 servings"
+Tags: "Main Dishes, Barbecue, Grilling"
+Recipe Type: ["Main Dishes"]
+[
+{
+Name: "Mediterranean Grilled Artichokes"
+Photo: "https://lh3.googleusercontent.com/vSkOSA8q83sBnnXRHXpKvXMYacCjM4ZVopqOqeiyZIX7M2ZpRPWNOw2hoAl0Zf7_QqGcSE1wlhchFJ_AwpO1Yw"
+URL: "https://www.yummly.com/recipe/Mediterranean-Grilled-Artichokes-2401284"
+Ingredients: ["2 artichokes","1 tablespoon olive oil","1 lemon Cut in half","1/4 teaspoon oregano","1/4 teaspoon thyme","1/4 teaspoon rosemary","1/4 teaspoon garlic salt"]
+Cook Time: "PT50M"
+Serve: "4 servings"
+Tags: "Steaming, Grilling"
