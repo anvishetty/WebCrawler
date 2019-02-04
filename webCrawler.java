@@ -21,9 +21,7 @@ public class webCrawler {
 
 
 
-   /* public static void main(String[] args){
-        crawl("https://www.yummly.com/recipes",new File("output.txt");
-    }*/
+  
 
     public void crawl(String URL, File outputFile) throws IOException {
         PrintWriter out = new PrintWriter(new FileWriter(outputFile));
