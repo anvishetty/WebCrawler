@@ -20,7 +20,7 @@ filterAndAdd()- filters the URLs by only referencing those which have "recipe" i
 
 # Pre Requisites
 The program can run on any IDE with java installed.
-I used intelliJ to create this webcrawler and had to add 3 dependencies 2 from Maven. GSON and JSON and a JSOUP dependency to establish the connection. 
+I used intelliJ to create this webcrawler and had to add 3 dependencies 2 from Maven - GSON , JSON and a JSOUP dependency to establish the connection. 
 
 # Tests and Enhancements
 
